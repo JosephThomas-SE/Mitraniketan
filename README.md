@@ -50,14 +50,14 @@ Mitraniketan's vision is to **uplift communities through knowledge, skills, and 
 To run this project locally:
 
 1️⃣ Clone the repository:
-# [git clone](https://github.com/JosephThomas-SE/Mitraniketan.git)
+### [git clone](https://github.com/JosephThomas-SE/Mitraniketan.git)
 cd Mitraniketan
 
 2️⃣ Install dependencies:
-## npm install
+### npm install
 
 3️⃣ Start the development server:
-# npm start
+### npm start
 
 Now visit http://localhost:3000 to see the site in action! 🎉
 
@@ -82,7 +82,7 @@ Creating an impactful digital presence for Mitraniketan is not just about design
 💬 "Code is not just about functionality; it's about crafting experiences that empower people."
 
 ## **📩 Want to Connect?**
-[GitHub](https://github.com/JosephThomas-SE)
+[GitHub](https://github.com/JosephThomas-SE) ,
 [LinkedIn](https://linkedin.com/in/josephthomasn)
 
 
