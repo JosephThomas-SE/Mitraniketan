@@ -54,7 +54,7 @@ To run this project locally:
 cd Mitraniketan
 
 2️⃣ Install dependencies:
-# npm install
+## npm install
 
 3️⃣ Start the development server:
 # npm start
