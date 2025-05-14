@@ -257,7 +257,7 @@ p {
     border: 2px solid #f7ca44; /* White border */
     border-radius: 10px; /* Rounded corners */
     padding: 20px;
-    flex: 1 1 calc(25% - 40px); /* 3 cards in a row with spacing */
+    flex: 1 1 calc(33.33% - 40px); /* 3 cards in a row with spacing */
     box-shadow: 0 6px 12px rgba(0, 0, 0, 0.3); /* Add shadow for card effect */
     text-align: center;
     transition: all 0.5s ease-in-out;
@@ -647,6 +647,11 @@ p.footer-last {
     .projects-page section { margin-bottom: 20px; }
     .projects-page h2 { color: #333; }
 
+    .projects-container {
+        flex-direction: column; /* Stack projects vertically */
+        align-items: center; /* Center cards horizontally */
+    }
+
     /* Gallery section */
     .gallery-grid { grid-template-columns: 1fr; }
     .gallery-item { margin-bottom: 20px; }
@@ -800,6 +805,10 @@ p.footer-last {
     .projects-page h1 { margin-bottom: 20px; }
     .projects-page section { margin-bottom: 15px; }
     .projects-page h2 { color: #333; }
+
+    .projects-container {
+        flex-direction: column; /* Stack projects vertically */
+    }
 
     /* Gallery section */
     .gallery-grid { grid-template-columns: 1fr; }
